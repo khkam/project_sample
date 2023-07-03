@@ -1,0 +1,10 @@
+id,password,status,limit
+kaiheng,1903056,1,5
+tunwei,1902997,1,5
+lihuan,1903182,1,5
+kexin,1903038,1,5
+wengliang,1902677,1,5
+mschuah,A278M,1,5
+xiaofang,123,0,5
+kam,123,0,5
+kam,kam,0,4

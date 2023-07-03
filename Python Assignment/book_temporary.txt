@@ -1,0 +1,56 @@
+A1,Complete Chemistry for Cambridge IGCSE (R) Revision Guide, Rosemarie Gallagher and Paul Ingram, Oxford University Press, 7May2015,2,chemistry
+A2,Chemistry, J.J.Lagowski, Macmillan Reference USA, 2004, 2,chemistry
+A3,Introductory Chemistry, Nivaldo J.Tro, Pearson/Prentice Hall, 2009, 3,chemistry
+A4,Encyclopedia of the Elements, Per Enghag, Wiley-VCH, 2004,2,chemistry
+A5,Modern Physical Organic Chemistry,Eric V.Anslyn and Dennis A.Dougherty,University Science,2006,2,chemistry
+B1,The Hunger Games, Suzanne Collins,-,-,3,action story
+B2,Catching Fire, Suzanne Collins,-,-,3,action story
+B3,Mockingjay, Suzanne Collins,-,-,2,action story
+B4,The Maze Runner, James Dashner,-,-,5,action story
+B5,The Scorch Trials, James Dashner,-,-,3,action story
+B6,The Death Cure, James Dashner,-,-,2,action story
+B7,The Kill Order, James Dashner,-,-,2,action story
+B8,Divergent, Veronica Roth,-,-,3,action story
+C1,Campbell Biology, Robert B.Jackson and etc, Pearson, 2014, 3,biology
+C2,Biology, Venetia Saunders and Philip Margham, HarperCollins, 2006,4,biology
+C4,The Structure of Scientific Revolutions, Thomas S.Kuhn, The University of Chicago Press, 2012, 2,biology
+D1,Oxford English Dictionary, Oxford University Press,-, 1884,10,dictionary
+D2,Cambridge Advanced Learner's Dictionary, Cambridge University Press,-, 1995, 8,dictionary
+D3,Collins English Dictionary, HarperCollins,-, 1979, 6,dictionary
+D4,Longman Dictionary of Contemporary English, Longman,-, 1978,5,dictionary
+E1,Harry Potter and The Sorcerer's Stone, J.K.Rowling,-,-, 4,fantasy
+E2,A Game of Thrones, George R.R.Martin,-,-, 4,fantasy
+E3,The Name of the Wind, Patrick Rothfuss,-,-, 3,fantasy
+E4,American Gods, Neil Gaiman,-,-, 3,fantasy
+E5,The Lost Hero, Rick Riordan,-,-,3,fantasy
+E6,Clockwork Angel, Cassandra Clare,-,-,4,fantasy
+E7,Six of Crows, Leigh Bardugo,-,-,2,fantasy
+F1,The Concise Oxford Dictionary of Mathematics:3rd ed, Christopher Clapham, Oxford University Press, 2005, 6,mathematics
+F2,Analysis Calculus and Differential Equations, Douglas N.Clark, CRC Press, 2000, 2,mathematics
+F3,Encyclopedia of Mathematics, James Stuart Tanton, Facts On File, 2005, 1,mathematics
+F4,Algebra/Arithmetic & Trigonometry, Douglas N.Clark, CRC Press, 2001, 4,mathematics
+G1,Handbook of Physics, Walter Benenson, Springer, 2002,5,physics
+G2,Complete Physics for Cambridge IGCSE(R) Revision Guide, Sarah Lloyd, Oxford University Press, 29Jan2015, 3,physics
+G3,The Quantum Theory of Fields, Steven Weinberg, Cambridge University Press, 1995, 5,physics
+H1,JavaScript: The Good Parts, Douglas Crockford,-,2008, 6,programming
+H2,The C Programming Language, Brian W.Kernighan,-, 1978, 3,programming
+H3,Python Pocket Reference, Mark Lutz,-, 1998, 5,programming
+H4,C# For Programmers, Harvey Deitel,-, 2005, 4,programming
+H5,C++ Primer, Stanley B.Lippman,-, 1989, 2,programming
+H6,Programming Microsoft ASP.NET MVC, Dino Esposito,-, 2010, 2,programming
+I1,Pride and Prejudice, Jane Austen, -,-,4,romance
+I2,The Selection, Kiera Cass,-,-, 3,romance
+I3,The Elite, Kiera Cass,-,-, 3,romance
+I4,The One, Kiera Cass,-,-, 2,romance
+I5,The Heir, Kiera Cass,-,-, 1,romance
+I6,The Crown, Kiera Cass,-,-,3,romance
+I7,Twilight, Stephenie Meyer,-,-, 2,romance
+I8,New Moon, Stephenie Meyer,-,-,4,romance
+I9,Eclipse, Stephenie Meyer,-,-,1,romance
+I10,Breaking Dawn, Stephenie Meyer,-,-,3,romance
+J1,The Lord of the Rings, J.R.R.Tolkien,-,-, 5,science fiction
+J2,The Hitchhiker's Guide to the Galaxy, Douglas Adams,-,-, 2,science fiction
+J3,Ender's Game, Orson Scott Card,-,-,1,science fiction
+J5,Brave New World, Aldous Huxley,-,-,3,science fiction
+J6,Stanger in a Strange Land, Robert A.Heinlein,-,-,2,science fiction
+J7,2001:A Space Odyssey, Arthur C.Clarke,-,-,5,science fiction

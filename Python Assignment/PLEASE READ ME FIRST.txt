@@ -1,0 +1,18 @@
+User Manual to use our library system.
+
+1) Sample admin id : mschuah
+                    Password : A278M
+
+2)Sample student id : xiaofang
+                Password is : 123
+
+3)If you want to borrow book from library, please refer to book library and remember the book id 
+    because you need the book id to borrow books.
+
+4)If you want to add a new book into our library system,please make sure that ID and type inserted is according to the ID list.
+    For example , format for book id must be like this - B3 instead of B or 3.
+    For example , format for book type must be like this - action story instead of action or story or anything else,
+    or else , our system won't be able to read the new added book .
+
+5)Every input for book id is according to format of id (C3) or information of the book will not pop out.
+
